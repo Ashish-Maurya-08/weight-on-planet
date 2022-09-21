@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage":"ashish-maurya-08.github.io/weights_on_planets",
+  "homepage": "https://ashish-maurya-08.github.io/St-3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
