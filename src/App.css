@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat';
+  /* background-image: url('./background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #2F5061;
+  background-image: linear-gradient(45deg,#2F5061,#013543);
+  min-height: 100vh;
+  overflow: scroll;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  scrollbar-width: none;
+}
+
+.App > div {
+  margin:1rem 0;
+}
+
+#solar{
+  border-radius: 2%;
+}
+.container{
+  position: relative;
+  height: auto;
+  width: 100%;
+}
+.overlay{
+  position: absolute;
+}
+
+.inputbox{
+  font-size: 130%;
+}
+
+.inputbox input{
+  border:none;
+  color: white;
+  margin-left: 1rem;
+  font-family: 'Montserrat';
+  font-size: 120%;
+  max-width: 25%;
+  border-bottom: 2px solid aqua;
+  background-color: transparent;
+  outline:none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+  -webkit-appearance:none;
+  margin: 0;
+}
+
+.output{
+  bottom:1rem;
+  width: 100%;
+  min-height: 30px;
+  font-size:1.5rem
+}
