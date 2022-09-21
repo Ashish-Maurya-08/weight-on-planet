@@ -46,44 +46,44 @@ function App() {
     left: '14%'
   }
   const earth={
-    width:'4.8%',
-    top:'45.7%',
-    left:'41.7%'
+    width:'5%',
+    top:'44.8%',
+    left:'41.6%'
   };
   const mercury={
-    width:'2.1%',
-    top:'39.6%',
+    width:'2.4%',
+    top:'39%',
     left:'29.2%'
   };
   const venus={
-    width:'3.9%',
-    top:'41.5%',
+    width:'4.2%',
+    top:'41%',
     left:'34.4%'
   };
   const mars={
-    width:'3%',
-    top:'61.3%',
-    left:'47.27%'
+    width:'3.3%',
+    top:'60.6%',
+    left:'47.2%'
   };
   const jupiter={
-    width:'7.2%',
-    top:'54.8%',
-    left:'52.9%'
+    width:'7.5%',
+    top:'53.7%',
+    left:'52.7%'
   };
   const saturn={
-    width:'6.3%',
-    top:'49.8%',
+    width:'6.7%',
+    top:'49%',
     left:'63.1%'
   };
   const uranus={
-    width:'5.2%',
-    top:'66.8%',
-    left:'71.7%'
+    width:'5.5%',
+    top:'66%',
+    left:'71.5%'
   };
   const neptune={
-    width:'5.5%',
-    top:'70.3%',
-    left:'81.2%'
+    width:'5.7%',
+    top:'69.4%',
+    left:'81%'
   };
 
 
