@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ashish-maurya-08.github.io/weights_on_planets/static/css/main.bc791b76.css",
-    "main.js": "/ashish-maurya-08.github.io/weights_on_planets/static/js/main.d518ccae.js",
-    "static/js/787.cda612ba.chunk.js": "/ashish-maurya-08.github.io/weights_on_planets/static/js/787.cda612ba.chunk.js",
-    "static/media/Solar_System.jpg": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Solar_System.1520f87c45f0af403c1f.jpg",
-    "static/media/Sun.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Sun.bf404b6ba929beb7d0f1.png",
-    "static/media/Jupiter.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Jupiter.b3f70cf7fc660216f6b8.png",
-    "static/media/Saturn.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Saturn.f372f641e4d6cdc1d25d.png",
-    "static/media/Earth.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Earth.65bae9db3749dd31ed04.png",
-    "static/media/Neptune.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Neptune.d5e5b49d996d7baa7258.png",
-    "static/media/Uranus.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Uranus.5429466cc552107085cf.png",
-    "static/media/Venus.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Venus.6a218a816f543e674a3e.png",
-    "static/media/Mars.png": "/ashish-maurya-08.github.io/weights_on_planets/static/media/Mars.e5a59c9b0c8cc9cc2507.png",
-    "index.html": "/ashish-maurya-08.github.io/weights_on_planets/index.html",
-    "main.bc791b76.css.map": "/ashish-maurya-08.github.io/weights_on_planets/static/css/main.bc791b76.css.map",
-    "main.d518ccae.js.map": "/ashish-maurya-08.github.io/weights_on_planets/static/js/main.d518ccae.js.map",
-    "787.cda612ba.chunk.js.map": "/ashish-maurya-08.github.io/weights_on_planets/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/static/css/main.bc791b76.css",
+    "main.js": "/static/js/main.097bb48f.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Solar_System.jpg": "/static/media/Solar_System.1520f87c45f0af403c1f.jpg",
+    "static/media/Sun.png": "/static/media/Sun.bf404b6ba929beb7d0f1.png",
+    "static/media/Jupiter.png": "/static/media/Jupiter.b3f70cf7fc660216f6b8.png",
+    "static/media/Saturn.png": "/static/media/Saturn.f372f641e4d6cdc1d25d.png",
+    "static/media/Earth.png": "/static/media/Earth.65bae9db3749dd31ed04.png",
+    "static/media/Neptune.png": "/static/media/Neptune.d5e5b49d996d7baa7258.png",
+    "static/media/Uranus.png": "/static/media/Uranus.5429466cc552107085cf.png",
+    "static/media/Venus.png": "/static/media/Venus.6a218a816f543e674a3e.png",
+    "static/media/Mars.png": "/static/media/Mars.e5a59c9b0c8cc9cc2507.png",
+    "index.html": "/index.html",
+    "main.bc791b76.css.map": "/static/css/main.bc791b76.css.map",
+    "main.097bb48f.js.map": "/static/js/main.097bb48f.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc791b76.css",
-    "static/js/main.d518ccae.js"
+    "static/js/main.097bb48f.js"
   ]
 }
