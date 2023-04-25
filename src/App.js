@@ -93,7 +93,7 @@ function App() {
     <div className="App">
       <div className='inputbox'>
         <label for='weight'>Weight :</label> 
-        <input type='number' name='weight' id='input'/>
+        <input type='number' name='weight' id='input'/>Kg
       </div>
       <div className='container'>
       <img src={Solar}  alt='Planets' width="80%" id='solar' useMap='#image-map'/>
@@ -108,7 +108,7 @@ function App() {
       <img src={Neptune} alt='neptune' title='Neptune' onClick={calculate} className='overlay' style={neptune} />
       </div>
       <div className='output'>
-        {final}
+        {final}Kg
       </div>
     </div>
   );
